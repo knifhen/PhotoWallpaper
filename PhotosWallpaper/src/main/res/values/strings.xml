@@ -1,0 +1,5 @@
+<resources>
+    <!-- Wallpaper showing photos -->
+    <string name="wallpaper_photo">Photos</string>
+    <string name="app_name">PhotosWallpaper</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PhotosWallpaper/PhotosWallpaper.iml" filepath="$PROJECT_DIR$/PhotosWallpaper/PhotosWallpaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotosWallpaperProject.iml" filepath="$PROJECT_DIR$/PhotosWallpaperProject.iml" />
+    </modules>
+  </component>
+</project>
+
