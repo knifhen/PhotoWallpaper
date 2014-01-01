@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/photo_settings"
+    android:key="photo_wallpaper_settings">
+
+    <ListPreference
+        android:key="photo_shape"
+        android:title="@string/photo_settings_title"
+        android:summary="@string/photo_settings_summary"
+        android:entries="@array/photo_shapenames"
+        android:entryValues="@array/photo_shapeprefix" />
+
+</PreferenceScreen>

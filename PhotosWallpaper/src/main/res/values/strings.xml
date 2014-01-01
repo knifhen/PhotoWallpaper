@@ -1,5 +1,8 @@
 <resources>
     <!-- Wallpaper showing photos -->
-    <string name="wallpaper_photo">Photos</string>
+    <string name="photo">Photos</string>
     <string name="app_name">PhotosWallpaper</string>
+    <string name="photo_settings">Settings</string>
+    <string name="photo_settings_title">Select shape</string>
+    <string name="photo_settings_summary">Choose whether to display a cube or a dodecahedron</string>
 </resources>
